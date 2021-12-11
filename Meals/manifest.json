@@ -1,0 +1,19 @@
+{
+  "short_name": "Meal Planner",
+  "name": "Hunter's Meal Planner",
+  "description": "Organize your recipes and plan your meals",
+  "lang": "en-US",
+  "display": "minimal-ui",
+  "theme_color": "#4caf50",
+  "background_color": "#388e3c",
+  "start_url": "/meals/index.html",
+  "id": "/meals/index.html",
+  "scope": "/meals/",
+  "icons": [
+    {
+      "src": "img/icons-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]  
+}
